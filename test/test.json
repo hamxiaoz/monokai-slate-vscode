@@ -1,0 +1,33 @@
+{
+  "_id": "5ddb61715a8db4bb6dcf4b85",
+  "index": 0,
+  "guid": "6b742f49-ded3-4035-8f20-75f2a273c392",
+  "isActive": true,
+  "balance": "$1,634.14",
+  "picture": "http://placehold.it/32x32",
+  "age": 32,
+  "eyeColor": "green",
+  "latitude": 69.321825,
+  "longitude": 86.858261,
+  "tags": [
+    "dolor",
+    "minim",
+    "non"
+  ],
+  "friends": [
+    {
+      "id": 0,
+      "name": "Chrystal Pitts"
+    },
+    {
+      "id": 1,
+      "name": "Patterson Cox"
+    },
+    {
+      "id": 2,
+      "name": "Smith Fulton"
+    }
+  ],
+  "greeting": "Hello, Ada Lancaster! You have 4 unread messages.",
+  "favoriteFruit": "banana"
+}
