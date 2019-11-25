@@ -1,7 +1,7 @@
-<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="129" height="129" viewBox="0 0 129 129" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect width="128" height="128" fill="#22282A"/>
-<rect width="63.566" height="12.028" transform="matrix(0.999955 -0.00946078 0.0102398 0.999948 53.3333 16.6014)" fill="#2AA198"/>
-<rect width="63.566" height="12.028" transform="matrix(0.999957 -0.00931201 0.0104034 0.999946 53.3333 75.2586)" fill="#FD971F"/>
-<rect width="63.566" height="12.028" transform="matrix(0.999957 -0.00931201 0.0104034 0.999946 6.3999 48.5919)" fill="#F92672"/>
-<rect width="63.566" height="12.028" transform="matrix(0.999957 -0.00931201 0.0104034 0.999946 6.3999 102.992)" fill="#D0D0D0"/>
+<rect width="128" height="18.29" transform="matrix(1 0 0.00148404 0.999999 0 0)" fill="#2AA198"/>
+<rect width="106" height="18.29" transform="matrix(1 0 0.00179715 0.999998 0.0800781 73.5068)" fill="#FD971F"/>
+<rect width="106" height="18.29" transform="matrix(1 0 0.00176836 0.999998 22.0801 37.5075)" fill="#F92672"/>
+<rect width="128" height="18.2857" transform="matrix(1 0 0.00179715 0.999998 0 110)" fill="#D0D0D0"/>
 </svg>
