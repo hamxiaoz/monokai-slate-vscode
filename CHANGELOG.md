@@ -1,9 +1,3 @@
 # Change Log
 
-All notable changes to the "monokai-slate" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+- 2019/11/24, v1.0.0, Initial release
