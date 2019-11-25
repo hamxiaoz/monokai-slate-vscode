@@ -589,6 +589,24 @@
 			}
 		},
 		{
+			"name": "HTML tag",
+			"scope": [
+				"entity.name.tag.html"
+			],
+			"settings": {
+				"foreground": "#FD971F"
+			}
+		},
+		{
+			"name": "HTML text",
+			"scope": [
+				"text.html.derivative"
+			],
+			"settings": {
+				"foreground": "#d0d0d0cc"
+			}
+		},
+		{
 			"name": "= in JSX attr",
 			"scope": "meta.tag.attributes keyword.operator.assignment.js",
 			"settings": {

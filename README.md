@@ -28,6 +28,14 @@ JSON
 
 ![](https://github.com/hamxiaoz/monokai-slate-vscode/blob/master/test/test.json.png?raw=true)
 
+HTML
+
+![](https://github.com/hamxiaoz/monokai-slate-vscode/blob/master/test/test.html.png?raw=true)
+
+CSS
+
+![](https://github.com/hamxiaoz/monokai-slate-vscode/blob/master/test/test.css.png?raw=true)
+
 ## Install
 
 press `ctl/command + shift + p` to launch the command palette then run
@@ -35,10 +43,18 @@ press `ctl/command + shift + p` to launch the command palette then run
 ext install monokai-slate
 ```
 
+## Develop
 
-## Development Tips
+1. Modify theme json file
+2. F5 to test
+3. Create extension file (*.vslx) `npm run package`
+4. Upload in https://marketplace.visualstudio.com/manage/publishers
+
+Development Tips:
 
 - Read this first: https://code.visualstudio.com/api/language-extensions/syntax-highlight-guide
 - TextMate selectors: https://macromates.com/manual/en/language_grammars
 - Use `Developer: Inspect TM Scopes` to inspect current token and color in VS Code.
+- [Hex color code with Opacity](https://gist.github.com/lopspower/03fb1cc0ac9f32ef38f4)
 - [Creating a VS Code Theme on CSS Tricks](https://css-tricks.com/creating-a-vs-code-theme/)
+- [vsce guide](https://code.visualstudio.com/api/working-with-extensions/publishing-extension#vsce)
