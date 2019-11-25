@@ -2,7 +2,7 @@
     "name": "monokai-slate",
     "displayName": "Monokai Slate",
     "description": "Best Monokai based dark theme for JavaScript developers and markdown readers",
-    "publisher": "hamxiaoz",
+    "publisher": "zurassic",
     "version": "1.0.0",
     "engines": {
         "vscode": "^1.40.0"
