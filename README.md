@@ -28,6 +28,13 @@ JSON
 
 ![](https://github.com/hamxiaoz/monokai-slate-vscode/blob/master/test/test.json.png?raw=true)
 
+## Install
+
+press `ctl/command + shift + p` to launch the command palette then run
+```
+ext install monokai-slate
+```
+
 
 ## Development Tips
 
