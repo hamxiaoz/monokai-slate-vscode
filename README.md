@@ -8,14 +8,25 @@ Monokai Slate is a VS Code dark theme with a focus for:
 2. Quick and easy spotting
 3. Best support for JavaScript, TypeScript, JSON and Markdown.
 
-It's ported and enhanced from my other theme for Atom editor: 'Monokai Slate - Atom', a [top download (37k+) Monokai variant theme](https://atom.io/themes/monokai-slate).
+It's ported and enhanced from my other theme for Atom editor: `Monokai Slate - Atom`, a [top download (37k+) Monokai variant theme](https://atom.io/themes/monokai-slate).
 
 ## Preview
 
-![](https://raw.githubusercontent.com/hamxiaoz/monokai-slate-vscode/master/preview/test.md.png)
-![](https://raw.githubusercontent.com/hamxiaoz/monokai-slate-vscode/master/preview/test.js.png)
-![](https://raw.githubusercontent.com/hamxiaoz/monokai-slate-vscode/master/preview/test.ts.png)
-![](https://raw.githubusercontent.com/hamxiaoz/monokai-slate-vscode/master/preview/test.json.png)
+Markdown
+
+![](https://github.com/hamxiaoz/monokai-slate-vscode/blob/master/test/test.md.png?raw=true)
+
+JavaScript
+
+![](https://github.com/hamxiaoz/monokai-slate-vscode/blob/master/test/test.js.png?raw=true)
+
+TypeScript
+
+![](https://github.com/hamxiaoz/monokai-slate-vscode/blob/master/test/test.ts.png?raw=true)
+
+JSON
+
+![](https://github.com/hamxiaoz/monokai-slate-vscode/blob/master/test/test.json.png?raw=true)
 
 
 ## Development Tips
