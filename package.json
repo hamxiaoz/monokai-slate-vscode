@@ -1,38 +1,38 @@
 {
-    "name": "monokai-slate",
-    "displayName": "Monokai Slate",
-    "description": "Best Monokai based dark theme for JavaScript developers and markdown readers",
-    "publisher": "zurassic",
-    "version": "1.0.0",
-    "engines": {
-        "vscode": "^1.40.0"
-    },
-    "icon": "icon.png",
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Monokai Slate",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Monokai Slate-color-theme.json"
-            }
-        ]
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/hamxiaoz/monokai-slate-vscode.git"
-    },
-    "bugs": {
-        "url": "https://github.com/hamxiaoz/monokai-slate-vscode/issues"
-    },
-    "homepage": "https://github.com/hamxiaoz/monokai-slate-vscode/blob/master/README.md",
-    "keywords": [
-        "Theme",
-        "Monokai",
-        "Dark"
-    ],
-    "author": "Andrew Zheng",
-    "license": "MIT"
+  "name": "monokai-slate",
+  "displayName": "Monokai Slate",
+  "description": "Best Monokai based dark theme for JavaScript developers and markdown readers",
+  "publisher": "zurassic",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.40.0"
+  },
+  "icon": "icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monokai Slate",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monokai Slate-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hamxiaoz/monokai-slate-vscode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hamxiaoz/monokai-slate-vscode/issues"
+  },
+  "homepage": "https://github.com/hamxiaoz/monokai-slate-vscode/blob/master/README.md",
+  "keywords": [
+    "Theme",
+    "Monokai",
+    "Dark"
+  ],
+  "author": "Andrew Zheng",
+  "license": "MIT"
 }
