@@ -16,7 +16,7 @@
       {
         "label": "Monokai Slate",
         "uiTheme": "vs-dark",
-        "path": "./themes/Monokai Slate-color-theme.json"
+        "path": "./themes/MonokaiSlate-color-theme.json"
       }
     ]
   },
