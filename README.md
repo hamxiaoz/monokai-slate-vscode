@@ -30,13 +30,9 @@ JSON
 
 ![](https://github.com/hamxiaoz/monokai-slate-vscode/blob/master/test/test.json.png?raw=true)
 
-HTML
+HTML & CSS
 
-![](https://github.com/hamxiaoz/monokai-slate-vscode/blob/master/test/test.html.png?raw=true)
-
-CSS
-
-![](https://github.com/hamxiaoz/monokai-slate-vscode/blob/master/test/test.css.png?raw=true)
+![](https://github.com/hamxiaoz/monokai-slate-vscode/blob/master/test/test.html.css.png?raw=true)
 
 ## Install
 
