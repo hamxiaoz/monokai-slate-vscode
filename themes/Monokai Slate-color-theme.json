@@ -579,22 +579,26 @@
 			"name": "HTML tags",
 			"scope": [
 				"entity.name.tag.js",
+				"entity.name.tag.html",
+				"entity.name.tag.tsx",
+				"entity.name.tag.css",
 				"entity.name.tag.inline.any.html",
 				"entity.name.tag.block.any.html",
 				"entity.name.tag.structure.any.html",
 				"entity.name.tag.jade"
 			],
 			"settings": {
-				"foreground": "#d9d9fa"
+				"foreground": "#e06c75"
 			}
 		},
 		{
-			"name": "HTML tag",
+			"name": "HTML tags punctuation",
 			"scope": [
-				"entity.name.tag.html"
+				"punctuation.definition.tag.begin",
+				"punctuation.definition.tag.end"
 			],
 			"settings": {
-				"foreground": "#FD971F"
+				"foreground": "#d0d0d0B3"
 			}
 		},
 		{
@@ -607,19 +611,20 @@
 			}
 		},
 		{
+			"name": "JSX TSX text",
+			"scope": [
+				"meta.jsx.children.js.jsx",
+				"meta.jsx.children.tsx"
+			],
+			"settings": {
+				"foreground": "#d0d0d0cc"
+			}
+		},
+		{
 			"name": "= in JSX attr",
 			"scope": "meta.tag.attributes keyword.operator.assignment.js",
 			"settings": {
 				"foreground": "#e6db74"
-			}
-		},
-		{
-			"name": "HTML TAGS",
-			"scope": [
-				"entity.name.tag.css"
-			],
-			"settings": {
-				"foreground": "#F92672"
 			}
 		},
 		{
