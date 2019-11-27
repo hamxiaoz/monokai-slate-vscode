@@ -1,6 +1,6 @@
 # Monokai Slate - VSCode Dark Theme
 
-> Best Monokai based dark theme for JavaScript developers and markdown readers
+> The best Monokai based dark theme for JavaScript developers and markdown readers
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/zurassic.monokai-slate.svg)](https://marketplace.visualstudio.com/items?itemName=zurassic.monokai-slate) [![Installs](https://vsmarketplacebadge.apphb.com/installs/zurassic.monokai-slate.svg)](https://marketplace.visualstudio.com/items?itemName=zurassic.monokai-slate)
 
