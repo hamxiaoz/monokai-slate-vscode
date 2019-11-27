@@ -41,6 +41,9 @@ press `ctl/command + shift + p` to launch the command palette then run
 ext install monokai-slate
 ```
 
+## Monokai Slate for Atom
+If you use Atom, please checkout the same theme [here](https://atom.io/themes/monokai-slate)
+
 ## Develop
 
 1. Modify theme json file
